@@ -12,3 +12,4 @@ C:\Users\USUARIO\Desktop\UEA\ESTRUCTURA DE DATOS (A)\deberes\obj\Debug\net9.0\re
 C:\Users\USUARIO\Desktop\UEA\ESTRUCTURA DE DATOS (A)\deberes\obj\Debug\net9.0\deberes.pdb
 C:\Users\USUARIO\Desktop\UEA\ESTRUCTURA DE DATOS (A)\deberes\obj\Debug\net9.0\deberes.genruntimeconfig.cache
 C:\Users\USUARIO\Desktop\UEA\ESTRUCTURA DE DATOS (A)\deberes\obj\Debug\net9.0\ref\deberes.dll
+C:\Users\USUARIO\Desktop\UEA\ESTRUCTURA DE DATOS (A)\deberes\obj\Debug\net9.0\deberes.sourcelink.json
