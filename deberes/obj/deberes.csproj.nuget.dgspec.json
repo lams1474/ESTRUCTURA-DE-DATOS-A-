@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\USUARIO\\Desktop\\UEA\\ESTRUCTURA DE DATOS (A)\\deberes\\deberes.csproj": {}
+    "C:\\Users\\USUARIO\\Desktop\\UEA\\ESTRUCTURA DE DATOS (A)\\deberes\\deberes.csproj": {}
   },
   "projects": {
-    "c:\\Users\\USUARIO\\Desktop\\UEA\\ESTRUCTURA DE DATOS (A)\\deberes\\deberes.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\UEA\\ESTRUCTURA DE DATOS (A)\\deberes\\deberes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\USUARIO\\Desktop\\UEA\\ESTRUCTURA DE DATOS (A)\\deberes\\deberes.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\UEA\\ESTRUCTURA DE DATOS (A)\\deberes\\deberes.csproj",
         "projectName": "deberes",
-        "projectPath": "c:\\Users\\USUARIO\\Desktop\\UEA\\ESTRUCTURA DE DATOS (A)\\deberes\\deberes.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\UEA\\ESTRUCTURA DE DATOS (A)\\deberes\\deberes.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\USUARIO\\Desktop\\UEA\\ESTRUCTURA DE DATOS (A)\\deberes\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\UEA\\ESTRUCTURA DE DATOS (A)\\deberes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
