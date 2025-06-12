@@ -41,9 +41,9 @@ namespace RegistroEstudiante
         static void Main(string[] args)
         {
             // Datos de ejemplo
-            string[] telefonos = { "0996813865", "0960698503", "097777777" };
+            string[] telefonos = { "0996813865", "0960698503", "0971720777" };
 
-            Estudiante estudiante1 = new Estudiante(1, "Luis", "Maigua", "Calle Rafael morales", telefonos);
+            Estudiante estudiante1 = new Estudiante(1, "Luis Alfonso", "Maigua Sisalema", "Calle Rafael morales", telefonos);
 
             estudiante1.MostrarDatos();
 
